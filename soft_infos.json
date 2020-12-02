@@ -1,0 +1,21 @@
+[
+  {
+    "name": "IntelliJ",
+    "path": "C:\\Users\\legre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains Toolbox\\IntelliJ IDEA Ultimate.lnk"
+  },{
+    "name": "Webstorm",
+    "path": "C:\\Users\\legre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains Toolbox\\WebStorm.lnk"
+  },{
+    "name": "Trello",
+    "path": "C:\\Users\\legre\\Desktop\\Trello.lnk"
+  },{
+    "name": "Postman",
+    "path": "C:\\Users\\legre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Postman.lnk"
+  },{
+    "name": "GitKraken",
+    "path": "C:\\Users\\legre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Axosoft, LLC\\GitKraken.lnk"
+  },{
+    "name": "Return",
+    "path": "C:\\Users\\legre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Axosoft, LLC\\GitKraken.lnk"
+  }
+]

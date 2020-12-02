@@ -1,0 +1,20 @@
+{
+  "name": "softbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build-win": "electron-packager . SoftBox --overwrite --asar --platform win32 --arch x64 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"SoftBox\""
+  },
+  "author": "Félix Legrelle",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.0",
+    "electron-packager": "^14.2.1"
+  },
+  "dependencies": {
+    "icon-extractor": "^1.0.3",
+    "windows-shortcuts-ps": "^1.0.1"
+  }
+}
